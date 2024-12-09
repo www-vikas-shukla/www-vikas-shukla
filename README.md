@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on Software Development and AI Based New Generation Technology.
 - 📫 How to reach me 👇
  mail- wdvikasshukla@gmail.com
-Contact num - 8468041749
-
+Contact - 8468041749
 Linkedin - //www.linkedin.com/in/er-vikas-shukla-11810424b
-
 GitHub -https://github.com/www-vikas-shukla
 
 - 😄 Pronouns: He,Him and Programmer, Coder and Developer.
