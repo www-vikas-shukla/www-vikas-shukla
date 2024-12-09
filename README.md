@@ -3,12 +3,14 @@
 - 🌱 I’m currently learning Advance AI Future Technologies.
 - 💞️ I’m looking to collaborate on Software Development and AI Based New Generation Technology.
 - 📫 How to reach me 👇
-- mail- wdvikasshukla@gmail.com
-Contact - 8468041749
 
-Linkedin - //www.linkedin.com/in/er-vikas-shukla-11810424b
+- - mail- wdvikasshukla@gmail.com
+  
+- Contact - 8468041749
 
-GitHub -https://github.com/www-vikas-shukla
+- Linkedin - //www.linkedin.com/in/er-vikas-shukla-11810424b
+
+- GitHub -https://github.com/www-vikas-shukla
 
 - 😄 Pronouns: He,Him and Programmer, Coder and Developer.
 - ⚡ Fun fact: Enjoying in Hobbies, Graphic Designing and Love to interact with Websites,Apps and Games.
