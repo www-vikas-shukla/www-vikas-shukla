@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software Development and AI Based New Generation Technology.
 - 📫 How to reach me 👇
 
-- - mail- wdvikasshukla@gmail.com
+-  mail- wdvikasshukla@gmail.com
   
 - Contact - 8468041749
 
