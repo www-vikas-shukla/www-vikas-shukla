@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @www-vikas-shukla
+- 👋 Hi, I’m @www-vikas-shukla - FULL STACK WEB DEVELOPER .
 - 👀 I’m interested in Web Development , Software Development , Reasoning, Coding , Problem Solving , Aptitude and Databases
 - 🌱 I’m currently learning Advance AI Future Technologies.
 - 💞️ I’m looking to collaborate on Software Development and AI Based New Generation Technology.
 - 📫 How to reach me 👇
+
+- hire me - Download Resume - https://drive.google.com/file/d/1G33yxdNi7He1T-KCB0H26xi6V734Aj6D/view?usp=drivesdk
 
 -  mail - wdvikasshukla@gmail.com
   
