@@ -2,6 +2,10 @@
 **Dear Hiring HR Manager ,<br><br> Self motivated graduate and Completed Full stack Apprenticeship Training of  .NET Development from Techpile Technology Private Limited and available for the  role of  Junior Full stack .NET developer and Software developer at fresher Level and i will be Open for interviews immediately and interested in immediate joining as soon as possible.<br><br>Full Stack.NET Developer  with skilled  in HTML, CSS, JavaScript,  and modern frameworks such as  jQuery , Bootstrap, and Tailwind CSS  and developer tools Visual studio code , visual studio , DevC++  and SQL server , SQL server Management studio , SQL database.<br><br>And Backend Languages like C , C# , Asp.Net , .NET Core , .NET MVC  framework.<br><br>- 😄 Pronouns: He,Him and Programmer, Coder and Developer.<br>- ⚡ Fun fact: Enjoying in Hobbies, Graphic Designing and Love to interact with Websites,Apps and Games.<br><br>Thank you for your time and consideration.<br><br>Vikas Shukla,<br><br>**
 
 
+
+
+
+
 ## 🌐 Socials Handlers :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-shukla-11810424b) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/www-vikas-shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wdvikasshukla@gmail.com) 
 
@@ -46,22 +50,13 @@ Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-
 
 ## 🐍 Play Games With Me 
 
-- uses: Platane/snk@v3
-        with:
-          github_user_name: VIKAS SHUKLA
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+<h1 align="center">🐍 VIKAS SHUKLA</h1>
 
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}FJIX-3ix2/view?usp=drivesdk 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Vikas+Shukla+Profile;GitHub+Contribution+Snake;Frontend+Developer;ASP.NET+Developer" />
+</p>
           
-[![](https://visitcount.itsvg.in/api?id=www-vikas-shukla&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
