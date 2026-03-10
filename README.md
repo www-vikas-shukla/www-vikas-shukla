@@ -8,16 +8,49 @@ Dear Hiring HR Manager ,<br><br> Self motivated graduate and Completed Full stac
 # 💻 Technical Skills :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-## 📊 Github Stats :
- ![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight) 
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
  
 ## 📫 Contact  Me :
-Phone - 7704813664 / 9120297088  
-📧 Email: wdvikasshukla@gmail.com 
-💼 LinkedIn: https://linkedin.com/in/er-vikas-shukla-11810424b
-💻 GitHub: https://github.com/www-vikas-shukla
-Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-3ix2/view?usp=drivesdk 
+Phone - 7704813664 / 9120297088<br><br>
+📧 Email: wdvikasshukla@gmail.com <br><br>
+💼 LinkedIn: https://linkedin.com/in/er-vikas-shukla-11810424b<br><br>
+💻 GitHub: https://github.com/www-vikas-shukla<br><br>
+Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-3ix2/view?usp=drivesdk <br><br>
+
+## 🐍 Play Games With Me 
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=www-vikas-shukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
