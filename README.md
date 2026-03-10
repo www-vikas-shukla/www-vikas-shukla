@@ -61,60 +61,6 @@ Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-
 <br><br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-<br><br>
-
-
-
-
-## 🎧 Currently Listening on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1db954&bar_color_cover=true"/>
-</p>
-
-
-
-2️⃣ Minimal Professional Version
-## 🎧 Spotify
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true"/>
-</p>
-
-
-3️⃣ Advanced Professional Layout
-
-This version looks very attractive in developer profiles.
-
-## 🎵 Spotify Activity
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</p>
-
-
-4️⃣ Spotify Top Tracks Card
-## 🔥 My Top Spotify Tracks
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/top-tracks?uid=YOUR_SPOTIFY_ID"/>
-
-</p>
-
-
-5️⃣ Example Professional Section
-## 🎧 Spotify
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
-</p>
-
-
-
-
 
 
 
