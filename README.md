@@ -31,7 +31,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=www-vikas-shukla&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
@@ -39,11 +39,11 @@
 
  
 ## 📫 Contact  Me :
-Phone - 7704813664 / 9120297088<br><br>
-📧 Email: wdvikasshukla@gmail.com <br><br>
-💼 LinkedIn: https://linkedin.com/in/er-vikas-shukla-11810424b<br><br>
-💻 GitHub: https://github.com/www-vikas-shukla<br><br>
-Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-3ix2/view?usp=drivesdk <br><br>
+**Phone** - 7704813664 / 9120297088<br><br>
+**📧 Email:** wdvikasshukla@gmail.com <br><br>
+**💼 LinkedIn:** https://linkedin.com/in/er-vikas-shukla-11810424b<br><br>
+**💻 GitHub:** https://github.com/www-vikas-shukla<br><br>
+**Hire Me - Resume** - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-3ix2/view?usp=drivesdk <br><br>
 
 
 
