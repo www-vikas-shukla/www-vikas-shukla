@@ -48,9 +48,9 @@ Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-
 
 
 
-## 🐍 Play Games With Me 
+## 🐍 Play Games With Me :
 
-<h1 align="center">🐍 Created By VIKAS SHUKLA</h1>
+<h1 align="center">  Created By VIKAS SHUKLA  🐍 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Vikas+Shukla+Profile;GitHub+Contribution+Snake;Frontend+Developer;ASP.NET+Developer;Full+Stack+Developer;Backend+Developer" />
