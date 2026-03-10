@@ -58,10 +58,10 @@ Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+<br><br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 
 
 
