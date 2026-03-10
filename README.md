@@ -5,7 +5,7 @@
 
 
 
-
+<br><br>
 ## 🌐 Socials Handlers :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-shukla-11810424b) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/www-vikas-shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wdvikasshukla@gmail.com) 
 
@@ -53,7 +53,80 @@ Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-
 <h1 align="center">🐍 VIKAS SHUKLA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Vikas+Shukla+Profile;GitHub+Contribution+Snake;Frontend+Developer;ASP.NET+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Vikas+Shukla+Profile;GitHub+Contribution+Snake;Frontend+Developer;ASP.NET+Developer;Full+Stack+Developer" />
+</p>
+
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/
+www-vikas-shukla/
+www-vikas-shukla/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/www-vikas-shukla
+/www-vikas-shukla
+/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 🐍 Snake Animation – VIKAS SHUKLA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/www-vikas-shukla
+/## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/www-vikas-shukla
+/www-vikas-shukla
+/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 🐍 Snake Animation – VIKAS SHUKLA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/www-vikas-shukla
+E/www-vikas-shukla
+/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 🐍 Snake Animation – VIKAS SHUKLA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/www-vikas-shukla
+/www-vikas-shukla
+/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 🐍 Snake Animation – VIKAS SHUKLA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/www-vikas-shukla
+/www-vikas-shukla
+/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>/www-vikas-shukla
+/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>/www-vikas-shukla
+/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
           
 
