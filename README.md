@@ -46,20 +46,7 @@ Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-
 
 ## 🐍 Play Games With Me 
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
+- uses: Platane/snk@v3
         with:
           github_user_name: VIKAS SHUKLA
           outputs: |
