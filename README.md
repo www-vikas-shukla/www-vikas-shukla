@@ -8,13 +8,13 @@
 <br><br>
 ## 🌐 Socials Handlers :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-shukla-11810424b) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/www-vikas-shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wdvikasshukla@gmail.com) 
+<br><br>
 
 
-
-
+<br><br>
 # 💻 Technical Skills :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+<br><br>
 
 
 
@@ -53,82 +53,10 @@ Hire Me - Resume - https://drive.google.com/file/d/16yHEmmdSUmJRluvlm20zHKaFJIX-
 <h1 align="center">🐍 VIKAS SHUKLA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Vikas+Shukla+Profile;GitHub+Contribution+Snake;Frontend+Developer;ASP.NET+Developer;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Vikas+Shukla+Profile;GitHub+Contribution+Snake;Frontend+Developer;ASP.NET+Developer;Full+Stack+Developer;Backend+Developer" />
 </p>
 
-
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/
-www-vikas-shukla/
-www-vikas-shukla/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/www-vikas-shukla
-/www-vikas-shukla
-/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🐍 Snake Animation – VIKAS SHUKLA
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/www-vikas-shukla
-/## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/www-vikas-shukla
-/www-vikas-shukla
-/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🐍 Snake Animation – VIKAS SHUKLA
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/www-vikas-shukla
-E/www-vikas-shukla
-/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🐍 Snake Animation – VIKAS SHUKLA
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/www-vikas-shukla
-/www-vikas-shukla
-/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🐍 Snake Animation – VIKAS SHUKLA
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/www-vikas-shukla
-/www-vikas-shukla
-/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>/www-vikas-shukla
-/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>/www-vikas-shukla
-/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-          
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 
